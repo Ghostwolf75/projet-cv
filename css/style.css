@@ -1,0 +1,32 @@
+.navbar-expand-sm bg-dark navbar-dark{
+    position: fixed;
+}
+body{
+    background-color: rgb(123, 123, 197);
+    
+}
+.div stage-1{
+    text-align: center;
+}
+.div stage-2{
+    text-align: center;
+}
+.div stage-3{
+    text-align: center;
+}
+.div stage-4{
+    text-align: center;
+}
+.div stage-5{
+    text-align: center;
+}
+.div stage-6{
+    text-align: center;
+}
+.div stage-7{
+    text-align: center;
+}
+.div stage-8{
+    text-align: center;
+    text-decoration-color: aquamarine;
+}
